@@ -2,6 +2,11 @@
   "name": "web-project.github.io",
   "version": "0.1.0",
   "private": true,
+   "homepage": "https://viktorgoncharov666.github.io/web-project.github.io/",  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ViktorGoncharov666/web-project.github.io"  
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
